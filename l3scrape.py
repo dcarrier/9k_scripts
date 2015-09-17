@@ -1,3 +1,6 @@
+#Authored by Darius Carrier
+#Credit: https://thepacketgeek.com/monitor-your-bgp-advertised-routes-with-paramiko/
+
 import paramiko
 import re
 from time import sleep
